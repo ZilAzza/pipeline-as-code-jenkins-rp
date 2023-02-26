@@ -1,1 +1,0 @@
-# pipeline-as-code-jenkins-rp
